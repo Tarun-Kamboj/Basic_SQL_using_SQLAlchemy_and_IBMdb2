@@ -30,5 +30,6 @@ This repository contains code for basic SQL queries and concepts implemented usi
 
 ## Thanks for Reading :)
 
-[Apache License](LICENSE)
-Copyright (c) 2021, Author - [Tarun Kamboj](https://github.com/Tarun-Kamboj).
+[Apache License](LICENSE) Copyright (c) 2021, 
+
+Author - [Tarun Kamboj](https://github.com/Tarun-Kamboj).
